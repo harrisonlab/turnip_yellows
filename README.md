@@ -1,1 +1,1 @@
-Commands for the analysis of Tunip yellows virus (TuYV)
+Commands for the analysis of Turnip yellows virus (TuYV)
