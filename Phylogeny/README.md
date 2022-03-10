@@ -15,3 +15,5 @@ rm "$Strain"_temp.fa
 rm "$Strain"_temp.txt
 done
 ```
+
+test_gruff
